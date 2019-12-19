@@ -31,7 +31,7 @@
     "aws-amplify-react-native": "^0.2.5",
     "aws-sdk": "^2.209.0",
     "format-json": "^1.0.3",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "moment": "^2.21.0",
     "prop-types": "^15.6.0",
     "ramda": "^0.25.0",

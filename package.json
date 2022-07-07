@@ -32,7 +32,7 @@
     "aws-sdk": "^2.209.0",
     "format-json": "^1.0.3",
     "lodash": "^4.17.4",
-    "moment": "^2.21.0",
+    "moment": "^2.29.4",
     "prop-types": "^15.6.0",
     "ramda": "^0.25.0",
     "react": "16.2.0",
